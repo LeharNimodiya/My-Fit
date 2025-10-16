@@ -1,0 +1,1154 @@
+{
+    "exerciseDetails": {
+        "101": {
+            "name": "Bench Press",
+            "description": "A compound exercise that primarily targets the chest muscles while also engaging the shoulders and triceps.",
+            "targetMuscles": ["Chest", "Shoulders", "Triceps"],
+            "equipment": ["Barbell", "Bench", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Lie flat on the bench with your feet firmly planted on the ground",
+                "Grip the barbell with hands slightly wider than shoulder-width apart",
+                "Unrack the barbell and hold it directly above your chest with arms fully extended",
+                "Lower the barbell slowly to your chest in a controlled manner",
+                "Press the barbell back up to the starting position, fully extending your arms",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your back flat against the bench throughout the movement",
+                "Don't bounce the bar off your chest - use controlled movements",
+                "Keep your wrists straight and aligned with your forearms",
+                "Breathe in as you lower the weight, breathe out as you press up"
+            ],
+            "precautions": [
+                "Use a spotter when lifting heavy weights",
+                "Don't arch your back excessively",
+                "Stop if you feel any sharp pain in your shoulders or chest"
+            ]
+        },
+        "102": {
+            "name": "Chest Fly Machine",
+            "description": "An isolation exercise that targets the chest muscles using a machine for controlled movement.",
+            "targetMuscles": ["Chest"],
+            "equipment": ["Chest Fly Machine"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Adjust the machine seat so that your arms are parallel to the floor when gripping the handles",
+                "Sit on the machine with your back firmly against the pad",
+                "Grip the handles with your palms facing forward",
+                "Bring the handles together in front of your chest in a slow, controlled motion",
+                "Squeeze your chest muscles at the peak of the movement",
+                "Slowly return to the starting position, feeling a stretch in your chest",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Focus on squeezing your chest muscles throughout the movement",
+                "Keep a slight bend in your elbows to avoid joint strain",
+                "Don't let the weight stack touch between repetitions",
+                "Control both the lifting and lowering phases"
+            ],
+            "precautions": [
+                "Don't use momentum to swing the weight",
+                "Stop if you feel any shoulder discomfort",
+                "Start with lighter weight to perfect your form"
+            ]
+        },
+        "103": {
+            "name": "Incline Bench Press",
+            "description": "A variation of the bench press that targets the upper chest and shoulders more effectively.",
+            "targetMuscles": ["Upper Chest", "Shoulders", "Triceps"],
+            "equipment": ["Barbell", "Incline Bench", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Set the bench to a 30-45 degree incline",
+                "Lie back on the bench with your feet planted firmly on the ground",
+                "Grip the barbell with hands slightly wider than shoulder-width",
+                "Unrack the barbell and hold it above your upper chest",
+                "Lower the barbell to your upper chest in a controlled manner",
+                "Press the barbell back up to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your shoulder blades retracted throughout the movement",
+                "Don't let your elbows flare out excessively",
+                "Use a slightly narrower grip than flat bench press",
+                "Focus on the upper chest contraction"
+            ],
+            "precautions": [
+                "Don't set the incline too high (max 45 degrees)",
+                "Use a spotter for heavier weights",
+                "Stop if you feel shoulder impingement"
+            ]
+        },
+        "104": {
+            "name": "Decline Bench Press",
+            "description": "A bench press variation that emphasizes the lower chest muscles.",
+            "targetMuscles": ["Lower Chest", "Shoulders", "Triceps"],
+            "equipment": ["Barbell", "Decline Bench", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Set the bench to a 15-30 degree decline",
+                "Secure your legs under the leg pads",
+                "Lie back on the bench and grip the barbell",
+                "Unrack the barbell and hold it above your lower chest",
+                "Lower the barbell to your lower chest area",
+                "Press the barbell back up to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your core engaged throughout the movement",
+                "Don't bounce the bar off your chest",
+                "Use a slightly wider grip than standard bench press",
+                "Focus on the lower chest squeeze"
+            ],
+            "precautions": [
+                "Ensure you're properly secured in the decline position",
+                "Don't decline too steeply if you're new to this exercise",
+                "Use a spotter for safety"
+            ]
+        },
+        "105": {
+            "name": "Push Up",
+            "description": "A bodyweight exercise that targets the chest, shoulders, and triceps.",
+            "targetMuscles": ["Chest", "Shoulders", "Triceps", "Core"],
+            "equipment": ["None (Bodyweight)"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Start in a plank position with hands slightly wider than shoulder-width",
+                "Keep your body in a straight line from head to heels",
+                "Lower your body by bending your elbows until your chest nearly touches the floor",
+                "Push back up to the starting position by extending your arms",
+                "Keep your core engaged throughout the movement",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your elbows at about 45 degrees from your body",
+                "Don't let your hips sag or pike up",
+                "Breathe out as you push up, breathe in as you lower down",
+                "Modify by doing push-ups on your knees if needed"
+            ],
+            "precautions": [
+                "Stop if you feel any wrist or shoulder pain",
+                "Don't lock your elbows at the top of the movement",
+                "Keep your neck in a neutral position"
+            ]
+        },
+        "201": {
+            "name": "Lat Pulldown",
+            "description": "A machine-based exercise that targets the latissimus dorsi muscles of the back.",
+            "targetMuscles": ["Lats", "Rhomboids", "Biceps"],
+            "equipment": ["Lat Pulldown Machine"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Adjust the knee pads to fit snugly against your thighs",
+                "Grip the bar with hands wider than shoulder-width, palms facing away",
+                "Sit down and secure your thighs under the pads",
+                "Start with arms fully extended above your head",
+                "Pull the bar down to your upper chest while squeezing your shoulder blades",
+                "Slowly return to the starting position with arms extended",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Focus on pulling with your back muscles, not your arms",
+                "Squeeze your shoulder blades together at the bottom",
+                "Don't lean back excessively - keep your torso upright",
+                "Control both the pulling and releasing phases"
+            ],
+            "precautions": [
+                "Don't use momentum to swing the weight",
+                "Stop if you feel any sharp pain in your shoulders",
+                "Use an appropriate weight that allows proper form"
+            ]
+        },
+        "202": {
+            "name": "Pull Up",
+            "description": "A bodyweight exercise that develops back and arm strength.",
+            "targetMuscles": ["Lats", "Rhomboids", "Biceps", "Core"],
+            "equipment": ["Pull-up Bar"],
+            "difficulty": "Advanced",
+            "steps": [
+                "Grip the pull-up bar with hands slightly wider than shoulder-width",
+                "Hang from the bar with arms fully extended",
+                "Pull your body up by engaging your back muscles",
+                "Continue pulling until your chin is above the bar",
+                "Lower your body in a controlled manner back to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Start with assisted pull-ups or use resistance bands if needed",
+                "Focus on pulling your elbows down and back",
+                "Keep your core engaged throughout the movement",
+                "Use a full range of motion for maximum benefit"
+            ],
+            "precautions": [
+                "Don't swing or use momentum",
+                "Stop if you feel any shoulder pain",
+                "Build up gradually if you're new to pull-ups"
+            ]
+        },
+        "203": {
+            "name": "T Bar Row",
+            "description": "A rowing exercise that targets the middle back muscles.",
+            "targetMuscles": ["Middle Back", "Rhomboids", "Rear Shoulders"],
+            "equipment": ["T Bar Row Machine", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Load the T-bar with appropriate weight plates",
+                "Stand on the platform with feet shoulder-width apart",
+                "Bend at the hips and knees to grip the handles",
+                "Keep your back straight and core engaged",
+                "Pull the weight up toward your chest by driving your elbows back",
+                "Squeeze your shoulder blades together at the top",
+                "Lower the weight in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your chest up and back straight throughout",
+                "Focus on pulling with your back, not your arms",
+                "Don't round your back or use momentum",
+                "Use a weight that allows you to maintain proper form"
+            ],
+            "precautions": [
+                "Don't round your lower back",
+                "Use a spotter if lifting very heavy weights",
+                "Stop if you feel any lower back discomfort"
+            ]
+        },
+        "301": {
+            "name": "Squat",
+            "description": "A fundamental compound movement that targets the lower body muscles.",
+            "targetMuscles": ["Quadriceps", "Glutes", "Hamstrings", "Core"],
+            "equipment": ["Barbell (optional)", "Weight Plates (optional)"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Stand with feet shoulder-width apart, toes slightly turned out",
+                "Keep your chest up and core engaged",
+                "Begin the descent by pushing your hips back and bending your knees",
+                "Lower until your thighs are at least parallel to the floor",
+                "Keep your knees tracking over your toes",
+                "Drive through your heels to return to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your weight on your heels, not your toes",
+                "Don't let your knees cave inward",
+                "Keep your chest up throughout the movement",
+                "Breathe in on the way down, breathe out on the way up"
+            ],
+            "precautions": [
+                "Don't let your knees extend past your toes",
+                "Stop if you feel any knee pain",
+                "Start with bodyweight squats to perfect form"
+            ]
+        },
+        "302": {
+            "name": "Deadlift",
+            "description": "A compound exercise that targets the posterior chain muscles.",
+            "targetMuscles": ["Hamstrings", "Glutes", "Lower Back", "Traps"],
+            "equipment": ["Barbell", "Weight Plates"],
+            "difficulty": "Advanced",
+            "steps": [
+                "Stand with feet hip-width apart, barbell over your mid-foot",
+                "Bend at the hips and knees to grip the barbell",
+                "Keep your back straight and chest up",
+                "Take a deep breath and brace your core",
+                "Drive through your heels and extend your hips and knees simultaneously",
+                "Stand tall with shoulders back at the top",
+                "Lower the barbell in a controlled manner back to the ground",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep the barbell close to your body throughout",
+                "Don't round your back - maintain a neutral spine",
+                "Start with the barbell on the floor for each rep",
+                "Use a mixed grip if the weight is challenging to hold"
+            ],
+            "precautions": [
+                "Never round your back during the movement",
+                "Start with light weight to perfect form",
+                "Stop immediately if you feel any sharp back pain"
+            ]
+        },
+        "303": {
+            "name": "Leg Extension",
+            "description": "An isolation exercise that targets the quadriceps muscles.",
+            "targetMuscles": ["Quadriceps"],
+            "equipment": ["Leg Extension Machine"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Adjust the machine so your knees align with the pivot point",
+                "Sit on the machine with your back against the pad",
+                "Place your shins under the padded bar",
+                "Grip the handles for stability",
+                "Extend your legs by contracting your quadriceps",
+                "Hold the peak contraction for a moment",
+                "Lower the weight in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Don't swing or use momentum",
+                "Focus on squeezing your quadriceps at the top",
+                "Control both the lifting and lowering phases",
+                "Don't lock your knees at the bottom"
+            ],
+            "precautions": [
+                "Don't use too much weight that causes you to swing",
+                "Stop if you feel any knee discomfort",
+                "Use slow, controlled movements"
+            ]
+        },
+        "304": {
+            "name": "Leg Raises",
+            "description": "A bodyweight exercise that targets the lower abdominal muscles.",
+            "targetMuscles": ["Lower Abs", "Hip Flexors", "Core"],
+            "equipment": ["None (Bodyweight)"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Lie flat on your back with legs extended",
+                "Place your hands at your sides or under your glutes for support",
+                "Keep your lower back pressed against the floor",
+                "Raise your legs toward the ceiling, keeping them straight",
+                "Continue until your hips are off the ground",
+                "Lower your legs in a controlled manner without touching the floor",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your core engaged throughout",
+                "Don't swing your legs - use controlled movements",
+                "Keep your lower back pressed against the floor",
+                "Breathe out as you raise your legs"
+            ],
+            "precautions": [
+                "Don't arch your back excessively",
+                "Stop if you feel any lower back discomfort",
+                "Start with bent knees if straight legs are too challenging"
+            ]
+        },
+        "305": {
+            "name": "Hip Thrust",
+            "description": "An exercise that targets the glute muscles and posterior chain.",
+            "targetMuscles": ["Glutes", "Hamstrings", "Core"],
+            "equipment": ["Barbell (optional)", "Weight Plates (optional)", "Bench"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Sit on the ground with your back against a bench",
+                "Roll a barbell over your hips (optional)",
+                "Place your feet flat on the floor, hip-width apart",
+                "Drive through your heels and thrust your hips upward",
+                "Squeeze your glutes at the top of the movement",
+                "Lower your hips back down in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your chin tucked and core engaged",
+                "Focus on squeezing your glutes at the top",
+                "Don't arch your back excessively",
+                "Use a pad under the barbell for comfort"
+            ],
+            "precautions": [
+                "Don't hyperextend your back at the top",
+                "Start without weight to perfect form",
+                "Stop if you feel any lower back pain"
+            ]
+        },
+        "306": {
+            "name": "Romanian Deadlift",
+            "description": "A deadlift variation that emphasizes the hamstrings and glutes.",
+            "targetMuscles": ["Hamstrings", "Glutes", "Lower Back"],
+            "equipment": ["Barbell", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Stand with feet hip-width apart, holding the barbell",
+                "Keep your back straight and core engaged",
+                "Hinge at the hips, pushing them back while keeping knees slightly bent",
+                "Lower the barbell while keeping it close to your legs",
+                "Feel a stretch in your hamstrings at the bottom",
+                "Drive your hips forward to return to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep the barbell close to your body throughout",
+                "Focus on pushing your hips back, not bending at the waist",
+                "Keep a slight bend in your knees",
+                "Use lighter weight than conventional deadlifts"
+            ],
+            "precautions": [
+                "Don't round your back during the movement",
+                "Stop if you feel any sharp hamstring pain",
+                "Start with light weight to perfect form"
+            ]
+        },
+        "401": {
+            "name": "Shoulder Press",
+            "description": "A compound exercise that targets the shoulder muscles.",
+            "targetMuscles": ["Shoulders", "Triceps", "Core"],
+            "equipment": ["Barbell", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Stand or sit with feet shoulder-width apart",
+                "Grip the barbell with hands slightly wider than shoulder-width",
+                "Start with the barbell at shoulder height",
+                "Press the barbell overhead until arms are fully extended",
+                "Lower the barbell back to shoulder height in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your core engaged throughout",
+                "Don't arch your back excessively",
+                "Use a grip that's comfortable for your shoulders",
+                "Control both the lifting and lowering phases"
+            ],
+            "precautions": [
+                "Don't lock your elbows at the top",
+                "Stop if you feel any shoulder pain",
+                "Start with lighter weight if you're new to overhead pressing"
+            ]
+        },
+        "402": {
+            "name": "Lateral Raises",
+            "description": "An isolation exercise that targets the side deltoid muscles.",
+            "targetMuscles": ["Side Delts", "Shoulders"],
+            "equipment": ["Dumbbells"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Stand with feet shoulder-width apart, holding dumbbells at your sides",
+                "Keep a slight bend in your elbows",
+                "Raise the dumbbells out to the sides until they're at shoulder height",
+                "Hold the peak contraction for a moment",
+                "Lower the dumbbells in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Don't swing the weights - use controlled movements",
+                "Keep your elbows slightly bent throughout",
+                "Focus on leading with your elbows, not your hands",
+                "Don't raise the weights above shoulder height"
+            ],
+            "precautions": [
+                "Don't use momentum to swing the weights",
+                "Stop if you feel any shoulder impingement",
+                "Start with very light weights"
+            ]
+        },
+        "501": {
+            "name": "Barbell Biceps Curl",
+            "description": "A compound exercise that targets the biceps muscles.",
+            "targetMuscles": ["Biceps", "Forearms"],
+            "equipment": ["Barbell", "Weight Plates"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Stand with feet shoulder-width apart, holding the barbell",
+                "Keep your elbows close to your sides",
+                "Curl the barbell up toward your shoulders",
+                "Squeeze your biceps at the top of the movement",
+                "Lower the barbell in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Don't swing your body to lift the weight",
+                "Keep your elbows stationary throughout",
+                "Focus on squeezing your biceps",
+                "Control both the lifting and lowering phases"
+            ],
+            "precautions": [
+                "Don't lean back to lift heavier weights",
+                "Stop if you feel any elbow pain",
+                "Use proper weight that allows good form"
+            ]
+        },
+        "502": {
+            "name": "Hammer Curl",
+            "description": "A bicep curl variation that targets the brachialis and brachioradialis muscles.",
+            "targetMuscles": ["Biceps", "Brachialis", "Forearms"],
+            "equipment": ["Dumbbells"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Stand with feet shoulder-width apart, holding dumbbells",
+                "Keep your palms facing your body (neutral grip)",
+                "Curl the dumbbells up toward your shoulders",
+                "Keep your elbows close to your sides",
+                "Lower the dumbbells in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Maintain a neutral wrist position throughout",
+                "Don't swing the weights",
+                "Focus on the contraction in your forearms",
+                "Keep your core engaged"
+            ],
+            "precautions": [
+                "Don't lean back to lift heavier weights",
+                "Stop if you feel any wrist discomfort",
+                "Use appropriate weight for your level"
+            ]
+        },
+        "503": {
+            "name": "Tricep Dips",
+            "description": "A bodyweight exercise that targets the triceps muscles.",
+            "targetMuscles": ["Triceps", "Shoulders", "Chest"],
+            "equipment": ["Dip Bars or Bench"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Grip the dip bars with hands shoulder-width apart",
+                "Support your body weight with arms extended",
+                "Lower your body by bending your elbows",
+                "Continue until your elbows are at about 90 degrees",
+                "Push back up to the starting position",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your body close to the bars",
+                "Don't let your shoulders shrug up",
+                "Focus on pushing through your triceps",
+                "Keep your core engaged"
+            ],
+            "precautions": [
+                "Don't go too low if you feel shoulder discomfort",
+                "Stop if you feel any sharp pain",
+                "Start with assisted dips if needed"
+            ]
+        },
+        "504": {
+            "name": "Tricep Pushdown",
+            "description": "An isolation exercise that targets the triceps using a cable machine.",
+            "targetMuscles": ["Triceps"],
+            "equipment": ["Cable Machine", "Rope or Bar Attachment"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Stand facing the cable machine",
+                "Grip the attachment with hands shoulder-width apart",
+                "Keep your elbows close to your sides",
+                "Push the attachment down until arms are fully extended",
+                "Squeeze your triceps at the bottom",
+                "Return to the starting position in a controlled manner",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your elbows stationary throughout",
+                "Don't lean forward excessively",
+                "Focus on the tricep contraction",
+                "Control both phases of the movement"
+            ],
+            "precautions": [
+                "Don't use momentum to push the weight down",
+                "Stop if you feel any elbow pain",
+                "Use appropriate weight for proper form"
+            ]
+        },
+        "601": {
+            "name": "Plank",
+            "description": "An isometric core exercise that builds stability and endurance.",
+            "targetMuscles": ["Core", "Shoulders", "Glutes"],
+            "equipment": ["None (Bodyweight)"],
+            "difficulty": "Intermediate",
+            "steps": [
+                "Start on the floor on your forearms and toes",
+                "Keep your body in a straight line from head to heels",
+                "Engage your core and glutes",
+                "Keep your elbows directly under your shoulders",
+                "Hold the position while breathing normally",
+                "Maintain for the desired duration"
+            ],
+            "tips": [
+                "Don't let your hips sag or pike up",
+                "Keep your neck in a neutral position",
+                "Breathe normally throughout the hold",
+                "Start with shorter holds and build up"
+            ],
+            "precautions": [
+                "Stop if you feel any lower back pain",
+                "Don't hold your breath",
+                "Modify by dropping to your knees if needed"
+            ]
+        },
+        "602": {
+            "name": "Russian Twist",
+            "description": "A core exercise that targets the obliques and improves rotational strength.",
+            "targetMuscles": ["Obliques", "Core", "Hip Flexors"],
+            "equipment": ["None (Bodyweight) or Medicine Ball"],
+            "difficulty": "Beginner",
+            "steps": [
+                "Sit on the floor with knees bent and feet flat",
+                "Lean back slightly while keeping your back straight",
+                "Clasp your hands together or hold a weight",
+                "Rotate your torso to one side",
+                "Return to center and rotate to the other side",
+                "Repeat for the desired number of repetitions"
+            ],
+            "tips": [
+                "Keep your back straight throughout",
+                "Don't round your spine",
+                "Move from your core, not your arms",
+                "Start without weight if needed"
+            ],
+            "precautions": [
+                "Don't round your lower back",
+                "Stop if you feel any back discomfort",
+                "Start slow and controlled"
+            ]
+        }
+    },
+    "workoutData": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Chest",
+                "workouts": [
+                    {
+                        "id": 101,
+                        "name": "Bench Press",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 200,
+                        "images": [
+                            "images/bench-press/bench-press_1.jpg",
+                            "images/bench-press/bench-press_2.jpg",
+                            "images/bench-press/bench-press_3.jpg",
+                            "images/bench-press/bench-press_4.jpg",
+                            "images/bench-press/bench-press_5.jpg",
+                            "images/bench-press/bench-press_6.jpg",
+                            "images/bench-press/bench-press_7.jpg",
+                            "images/bench-press/bench-press_8.jpg",
+                            "images/bench-press/bench-press_9.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 102,
+                        "name": "Chest Fly Machine",
+                        "sets": 3,
+                        "reps": 12,
+                        "difficulty": "Beginner",
+                        "calories": 150,
+                        "images": [
+                            "images/chest-fly-machine/chest-fly-machine_1.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_2.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_3.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_4.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_5.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_6.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_7.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_8.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_9.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_10.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_11.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_12.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_13.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_14.jpg",
+                            "images/chest-fly-machine/chest-fly-machine_15.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 103,
+                        "name": "Incline Bench Press",
+                        "sets": 4,
+                        "reps": 8,
+                        "difficulty": "Intermediate",
+                        "calories": 180,
+                        "images": [
+                            "images/incline-bench-press/incline-bench-press_1.jpg",
+                            "images/incline-bench-press/incline-bench-press_2.jpg",
+                            "images/incline-bench-press/incline-bench-press_3.jpg",
+                            "images/incline-bench-press/incline-bench-press_4.jpg",
+                            "images/incline-bench-press/incline-bench-press_5.jpg",
+                            "images/incline-bench-press/incline-bench-press_6.jpg",
+                            "images/incline-bench-press/incline-bench-press_7.jpg",
+                            "images/incline-bench-press/incline-bench-press_8.jpg",
+                            "images/incline-bench-press/incline-bench-press_9.jpg",
+                            "images/incline-bench-press/incline-bench-press_10.jpg",
+                            "images/incline-bench-press/incline-bench-press_11.jpg",
+                            "images/incline-bench-press/incline-bench-press_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 104,
+                        "name": "Decline Bench Press",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 190,
+                        "images": [
+                            "images/decline-bench-press/decline-bench-press_1.jpg",
+                            "images/decline-bench-press/decline-bench-press_2.jpg",
+                            "images/decline-bench-press/decline-bench-press_3.jpg",
+                            "images/decline-bench-press/decline-bench-press_4.jpg",
+                            "images/decline-bench-press/decline-bench-press_5.jpg",
+                            "images/decline-bench-press/decline-bench-press_6.jpg",
+                            "images/decline-bench-press/decline-bench-press_7.jpg",
+                            "images/decline-bench-press/decline-bench-press_8.jpg",
+                            "images/decline-bench-press/decline-bench-press_9.jpg",
+                            "images/decline-bench-press/decline-bench-press_10.jpg",
+                            "images/decline-bench-press/decline-bench-press_11.jpg",
+                            "images/decline-bench-press/decline-bench-press_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 105,
+                        "name": "Push Up",
+                        "sets": 3,
+                        "reps": 15,
+                        "difficulty": "Beginner",
+                        "calories": 120,
+                        "images": [
+                            "images/push-up/push-up_1.jpg",
+                            "images/push-up/push-up_2.jpg",
+                            "images/push-up/push-up_3.jpg",
+                            "images/push-up/push-up_4.jpg",
+                            "images/push-up/push-up_5.jpg",
+                            "images/push-up/push-up_6.jpg",
+                            "images/push-up/push-up_7.jpg",
+                            "images/push-up/push-up_8.jpg",
+                            "images/push-up/push-up_9.jpg",
+                            "images/push-up/push-up_10.jpg",
+                            "images/push-up/push-up_11.jpg",
+                            "images/push-up/push-up_12.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Back",
+                "workouts": [
+                    {
+                        "id": 201,
+                        "name": "Lat Pulldown",
+                        "sets": 4,
+                        "reps": 12,
+                        "difficulty": "Intermediate",
+                        "calories": 160,
+                        "images": [
+                            "images/lat-pulldown/lat-pulldown_1.jpg",
+                            "images/lat-pulldown/lat-pulldown_2.jpg",
+                            "images/lat-pulldown/lat-pulldown_3.jpg",
+                            "images/lat-pulldown/lat-pulldown_4.jpg",
+                            "images/lat-pulldown/lat-pulldown_5.jpg",
+                            "images/lat-pulldown/lat-pulldown_6.jpg",
+                            "images/lat-pulldown/lat-pulldown_7.jpg",
+                            "images/lat-pulldown/lat-pulldown_8.jpg",
+                            "images/lat-pulldown/lat-pulldown_9.jpg",
+                            "images/lat-pulldown/lat-pulldown_10.jpg",
+                            "images/lat-pulldown/lat-pulldown_11.jpg",
+                            "images/lat-pulldown/lat-pulldown_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 202,
+                        "name": "Pull Up",
+                        "sets": 3,
+                        "reps": 8,
+                        "difficulty": "Advanced",
+                        "calories": 140,
+                        "images": [
+                            "images/pull-up/pull-up_1.jpg",
+                            "images/pull-up/pull-up_2.jpg",
+                            "images/pull-up/pull-up_3.jpg",
+                            "images/pull-up/pull-up_4.jpg",
+                            "images/pull-up/pull-up_5.jpg",
+                            "images/pull-up/pull-up_6.jpg",
+                            "images/pull-up/pull-up_7.jpg",
+                            "images/pull-up/pull-up_8.jpg",
+                            "images/pull-up/pull-up_9.jpg",
+                            "images/pull-up/pull-up_10.jpg",
+                            "images/pull-up/pull-up_11.jpg",
+                            "images/pull-up/pull-up_12.jpg",
+                            "images/pull-up/pull-up_13.jpg",
+                            "images/pull-up/pull-up_14.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 203,
+                        "name": "T Bar Row",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 170,
+                        "images": [
+                            "images/t-bar-row/t-bar-row_1.jpg",
+                            "images/t-bar-row/t-bar-row_2.jpg",
+                            "images/t-bar-row/t-bar-row_3.jpg",
+                            "images/t-bar-row/t-bar-row_4.jpg",
+                            "images/t-bar-row/t-bar-row_5.jpg",
+                            "images/t-bar-row/t-bar-row_6.jpg",
+                            "images/t-bar-row/t-bar-row_7.jpg",
+                            "images/t-bar-row/t-bar-row_8.jpg",
+                            "images/t-bar-row/t-bar-row_9.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Legs",
+                "workouts": [
+                    {
+                        "id": 301,
+                        "name": "Squat",
+                        "sets": 4,
+                        "reps": 12,
+                        "difficulty": "Intermediate",
+                        "calories": 220,
+                        "images": [
+                            "images/squat/squat_1.jpg",
+                            "images/squat/squat_2.jpg",
+                            "images/squat/squat_3.jpg",
+                            "images/squat/squat_4.jpg",
+                            "images/squat/squat_5.jpg",
+                            "images/squat/squat_6.jpg",
+                            "images/squat/squat_7.jpg",
+                            "images/squat/squat_8.jpg",
+                            "images/squat/squat_9.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 302,
+                        "name": "Deadlift",
+                        "sets": 4,
+                        "reps": 8,
+                        "difficulty": "Advanced",
+                        "calories": 250,
+                        "images": [
+                            "images/deadlift/deadlift_1.jpg",
+                            "images/deadlift/deadlift_2.jpg",
+                            "images/deadlift/deadlift_3.jpg",
+                            "images/deadlift/deadlift_4.jpg",
+                            "images/deadlift/deadlift_5.jpg",
+                            "images/deadlift/deadlift_6.jpg",
+                            "images/deadlift/deadlift_7.jpg",
+                            "images/deadlift/deadlift_8.jpg",
+                            "images/deadlift/deadlift_9.jpg",
+                            "images/deadlift/deadlift_10.jpg",
+                            "images/deadlift/deadlift_11.jpg",
+                            "images/deadlift/deadlift_12.jpg",
+                            "images/deadlift/deadlift_13.jpg",
+                            "images/deadlift/deadlift_14.jpg",
+                            "images/deadlift/deadlift_15.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 303,
+                        "name": "Leg Extension",
+                        "sets": 3,
+                        "reps": 15,
+                        "difficulty": "Beginner",
+                        "calories": 130,
+                        "images": [
+                            "images/leg-extension/leg-extension_1.jpg",
+                            "images/leg-extension/leg-extension_2.jpg",
+                            "images/leg-extension/leg-extension_3.jpg",
+                            "images/leg-extension/leg-extension_4.jpg",
+                            "images/leg-extension/leg-extension_5.jpg",
+                            "images/leg-extension/leg-extension_6.jpg",
+                            "images/leg-extension/leg-extension_7.jpg",
+                            "images/leg-extension/leg-extension_8.jpg",
+                            "images/leg-extension/leg-extension_9.jpg",
+                            "images/leg-extension/leg-extension_10.jpg",
+                            "images/leg-extension/leg-extension_11.jpg",
+                            "images/leg-extension/leg-extension_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 304,
+                        "name": "Leg Raises",
+                        "sets": 3,
+                        "reps": 12,
+                        "difficulty": "Beginner",
+                        "calories": 100,
+                        "images": [
+                            "images/leg-raises/leg-raises_1.jpg",
+                            "images/leg-raises/leg-raises_2.jpg",
+                            "images/leg-raises/leg-raises_3.jpg",
+                            "images/leg-raises/leg-raises_4.jpg",
+                            "images/leg-raises/leg-raises_5.jpg",
+                            "images/leg-raises/leg-raises_6.jpg",
+                            "images/leg-raises/leg-raises_7.jpg",
+                            "images/leg-raises/leg-raises_8.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 305,
+                        "name": "Hip Thrust",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 180,
+                        "images": [
+                            "images/hip-thrust/hip-thrust_1.jpg",
+                            "images/hip-thrust/hip-thrust_2.jpg",
+                            "images/hip-thrust/hip-thrust_3.jpg",
+                            "images/hip-thrust/hip-thrust_4.jpg",
+                            "images/hip-thrust/hip-thrust_5.jpg",
+                            "images/hip-thrust/hip-thrust_6.jpg",
+                            "images/hip-thrust/hip-thrust_7.jpg",
+                            "images/hip-thrust/hip-thrust_8.jpg",
+                            "images/hip-thrust/hip-thrust_9.jpg",
+                            "images/hip-thrust/hip-thrust_10.jpg",
+                            "images/hip-thrust/hip-thrust_11.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 306,
+                        "name": "Romanian Deadlift",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 200,
+                        "images": [
+                            "images/romanian-deadlift/romanian-deadlift_1.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_2.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_3.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_4.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_5.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_6.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_7.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_8.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_9.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_10.jpg",
+                            "images/romanian-deadlift/romanian-deadlift_11.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Shoulders",
+                "workouts": [
+                    {
+                        "id": 401,
+                        "name": "Shoulder Press",
+                        "sets": 4,
+                        "reps": 10,
+                        "difficulty": "Intermediate",
+                        "calories": 160,
+                        "images": [
+                            "images/shoulder-press/shoulder-press_1.jpg",
+                            "images/shoulder-press/shoulder-press_2.jpg",
+                            "images/shoulder-press/shoulder-press_3.jpg",
+                            "images/shoulder-press/shoulder-press_4.jpg",
+                            "images/shoulder-press/shoulder-press_5.jpg",
+                            "images/shoulder-press/shoulder-press_6.jpg",
+                            "images/shoulder-press/shoulder-press_7.jpg",
+                            "images/shoulder-press/shoulder-press_8.jpg",
+                            "images/shoulder-press/shoulder-press_9.jpg",
+                            "images/shoulder-press/shoulder-press_10.jpg",
+                            "images/shoulder-press/shoulder-press_11.jpg",
+                            "images/shoulder-press/shoulder-press_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 402,
+                        "name": "Lateral Raises",
+                        "sets": 3,
+                        "reps": 12,
+                        "difficulty": "Beginner",
+                        "calories": 120,
+                        "images": [
+                            "images/lateral-raises/lateral-raises_1.jpg",
+                            "images/lateral-raises/lateral-raises_2.jpg",
+                            "images/lateral-raises/lateral-raises_3.jpg",
+                            "images/lateral-raises/lateral-raises_4.jpg",
+                            "images/lateral-raises/lateral-raises_5.jpg",
+                            "images/lateral-raises/lateral-raises_6.jpg",
+                            "images/lateral-raises/lateral-raises_7.jpg",
+                            "images/lateral-raises/lateral-raises_8.jpg",
+                            "images/lateral-raises/lateral-raises_9.jpg",
+                            "images/lateral-raises/lateral-raises_10.jpg",
+                            "images/lateral-raises/lateral-raises_11.jpg",
+                            "images/lateral-raises/lateral-raises_12.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Arms",
+                "workouts": [
+                    {
+                        "id": 501,
+                        "name": "Barbell Biceps Curl",
+                        "sets": 4,
+                        "reps": 12,
+                        "difficulty": "Intermediate",
+                        "calories": 140,
+                        "images": [
+                            "images/barbell-biceps-curl/barbell-biceps-curl_1.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_2.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_3.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_4.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_5.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_6.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_7.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_8.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_9.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_10.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_11.jpg",
+                            "images/barbell-biceps-curl/barbell-biceps-curl_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 502,
+                        "name": "Hammer Curl",
+                        "sets": 3,
+                        "reps": 10,
+                        "difficulty": "Beginner",
+                        "calories": 130,
+                        "images": [
+                            "images/hammer-curl/hammer-curl_1.jpg",
+                            "images/hammer-curl/hammer-curl_2.jpg",
+                            "images/hammer-curl/hammer-curl_3.jpg",
+                            "images/hammer-curl/hammer-curl_4.jpg",
+                            "images/hammer-curl/hammer-curl_5.jpg",
+                            "images/hammer-curl/hammer-curl_6.jpg",
+                            "images/hammer-curl/hammer-curl_7.jpg",
+                            "images/hammer-curl/hammer-curl_8.jpg",
+                            "images/hammer-curl/hammer-curl_9.jpg",
+                            "images/hammer-curl/hammer-curl_10.jpg",
+                            "images/hammer-curl/hammer-curl_11.jpg",
+                            "images/hammer-curl/hammer-curl_12.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 503,
+                        "name": "Tricep Dips",
+                        "sets": 3,
+                        "reps": 12,
+                        "difficulty": "Intermediate",
+                        "calories": 150,
+                        "images": [
+                            "images/tricep-dips/tricep-dips_1.jpg",
+                            "images/tricep-dips/tricep-dips_2.jpg",
+                            "images/tricep-dips/tricep-dips_3.jpg",
+                            "images/tricep-dips/tricep-dips_4.jpg",
+                            "images/tricep-dips/tricep-dips_5.jpg",
+                            "images/tricep-dips/tricep-dips_6.jpg",
+                            "images/tricep-dips/tricep-dips_7.jpg",
+                            "images/tricep-dips/tricep-dips_8.jpg",
+                            "images/tricep-dips/tricep-dips_9.jpg",
+                            "images/tricep-dips/tricep-dips_10.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 504,
+                        "name": "Tricep Pushdown",
+                        "sets": 4,
+                        "reps": 15,
+                        "difficulty": "Beginner",
+                        "calories": 120,
+                        "images": [
+                            "images/tricep-pushdown/tricep-pushdown_1.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_2.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_3.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_4.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_5.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_6.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_7.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_8.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_9.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_10.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_11.jpg",
+                            "images/tricep-pushdown/tricep-pushdown_12.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Core",
+                "workouts": [
+                    {
+                        "id": 601,
+                        "name": "Plank",
+                        "duration": 60,
+                        "difficulty": "Intermediate",
+                        "calories": 100,
+                        "images": [
+                            "images/plank/plank_1.jpg",
+                            "images/plank/plank_2.jpg",
+                            "images/plank/plank_3.jpg",
+                            "images/plank/plank_4.jpg",
+                            "images/plank/plank_5.jpg",
+                            "images/plank/plank_6.jpg",
+                            "images/plank/plank_7.jpg",
+                            "images/plank/plank_8.jpg",
+                            "images/plank/plank_9.jpg"
+                        ],
+                        "completed": false
+                    },
+                    {
+                        "id": 602,
+                        "name": "Russian Twist",
+                        "sets": 3,
+                        "reps": 20,
+                        "difficulty": "Beginner",
+                        "calories": 110,
+                        "images": [
+                            "images/russian-twist/russian-twist_1.jpg",
+                            "images/russian-twist/russian-twist_2.jpg",
+                            "images/russian-twist/russian-twist_3.jpg",
+                            "images/russian-twist/russian-twist_4.jpg",
+                            "images/russian-twist/russian-twist_5.jpg",
+                            "images/russian-twist/russian-twist_6.jpg",
+                            "images/russian-twist/russian-twist_7.jpg",
+                            "images/russian-twist/russian-twist_8.jpg",
+                            "images/russian-twist/russian-twist_9.jpg",
+                            "images/russian-twist/russian-twist_10.jpg"
+                        ],
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    "achievementsData": {
+        "workout-count": {
+            "title": "Workout Warrior",
+            "icon": "fa-dumbbell",
+            "tiers": [
+                { "name": "Bronze", "threshold": 1, "description": "Complete your first workout" },
+                { "name": "Silver", "threshold": 10, "description": "Complete 10 workouts" },
+                { "name": "Gold", "threshold": 50, "description": "Complete 50 workouts" },
+                { "name": "Platinum", "threshold": 100, "description": "Complete 100 workouts" }
+            ]
+        },
+        "calorie-burn": {
+            "title": "Calorie Crusher",
+            "icon": "fa-fire",
+            "tiers": [
+                { "name": "Bronze", "threshold": 1000, "description": "Burn 1,000 total calories" },
+                { "name": "Silver", "threshold": 5000, "description": "Burn 5,000 total calories" },
+                { "name": "Gold", "threshold": 25000, "description": "Burn 25,000 total calories" },
+                { "name": "Platinum", "threshold": 50000, "description": "Burn 50,000 total calories" }
+            ]
+        },
+        "workout-streak": {
+            "title": "Consistency King",
+            "icon": "fa-calendar-check",
+            "tiers": [
+                { "name": "Bronze", "threshold": 3, "description": "Maintain a 3-day workout streak" },
+                { "name": "Silver", "threshold": 7, "description": "Maintain a 7-day workout streak" },
+                { "name": "Gold", "threshold": 30, "description": "Maintain a 30-day workout streak" },
+                { "name": "Platinum", "threshold": 90, "description": "Maintain a 90-day workout streak" }
+            ]
+        }
+    }
+}

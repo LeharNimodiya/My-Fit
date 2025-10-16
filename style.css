@@ -1,0 +1,370 @@
+:root {
+    --primary: #4361ee;
+    --secondary: #3f37c9; /* A darker blue */
+    --success: #4895ef; /* A lighter blue */
+    --light: #f8f9fa;
+    --dark: #212529;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(rgba(255, 255, 255,0.92), rgba(255, 255, 255, 0.2)), url('gym.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.navbar {
+    background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.feature-icon {
+    font-size: 2.5rem;
+    color: var(--primary);
+    margin-bottom: 15px;
+}
+
+.progress-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: conic-gradient(var(--success) var(--progress), #e0e0e0 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.progress-circle::before {
+    content: attr(data-progress) '%';
+    position: absolute;
+    font-weight: bold;
+    color: var(--dark);
+}
+
+.notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: var(--dark);
+    color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+    animation: fadeIn 0.5s;
+    max-width: 300px;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.workout-card {
+    cursor: pointer;
+}
+
+.badge-earned {
+    background-color: var(--success);
+    color: white;
+}
+
+.badge-not-earned {
+    background-color: #6c757d;
+    color: white;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.tab-content {
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    background-color: white;
+}
+
+.admin-dashboard {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.user-management {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.performance-meter {
+    height: 20px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #e74c3c, #f39c12, #2ecc71);
+    margin: 10px 0;
+}
+
+.energy-level-btn {
+    transition: all 0.3s;
+}
+
+.energy-level-btn:hover {
+    transform: scale(1.05);
+}
+
+.workout-badge {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 10px;
+    font-size: 1.5rem;
+}
+
+.workout-image {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+    width: 100%;
+}
+
+.workout-card:hover .workout-image {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+/* Remove backdrop from exercise modal to allow interaction */
+.modal-backdrop {
+    display: none !important;
+}
+body.modal-open {
+    overflow: auto !important;
+}
+
+/* Exercise Modal Styles */
+.modal-xl {
+    max-width: 90%;
+}
+
+#exercise-image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+}
+
+#exercise-image-gallery img {
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#exercise-image-gallery img:hover {
+    transform: scale(1.05);
+}
+
+/* Image Lightbox Styles */
+#lightbox-image {
+    max-height: 90vh;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.filter-controls .btn-group {
+    width: 100%;
+}
+
+/* Adaptive Workout Timer Styles */
+.workout-timer-container {
+    background-color: var(--dark);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.workout-timer-display {
+    font-size: 3.5rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+details > summary {
+    cursor: pointer;
+}
+
+/* Diet Card Styles */
+.diet-card .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.diet-card-img-container {
+    position: relative;
+}
+
+.diet-card-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 0.9rem;
+    padding: 0.5em 0.8em;
+}
+
+.macro-grid > div {
+    flex-basis: 25%;
+}
+
+.diet-details summary {
+    list-style: none; /* Remove default arrow */
+    transition: background-color 0.2s;
+}
+
+.diet-details summary::-webkit-details-marker {
+    display: none; /* Hide arrow for Chrome/Safari */
+}
+
+.diet-details[open] summary {
+    background-color: var(--primary);
+    color: white;
+}
+
+.diet-details-content {
+    padding: 15px;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    border-radius: 0 0 0.375rem 0.375rem;
+}
+
+.diet-card-preference-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 0.8rem;
+}
+
+/* AI Coach Container Styles */
+.ai-coach-container {
+    position: fixed;
+    bottom: 120px;
+    right: 20px;
+    width: 350px;
+    max-width: 90vw;
+    z-index: 1060; /* Higher than modal backdrop */
+    border: 1px solid #dee2e6;
+    transition: all 0.3s ease-in-out;
+    min-width: 250px; /* Prevent it from becoming too small */
+    min-height: 200px;
+}
+
+.ai-coach-container.maximized {
+    width: 50vw !important; /* Use !important to override inline styles */
+    height: 100vh !important;
+    top: 0 !important;
+    left: auto !important;
+    right: auto;
+    bottom: auto;
+    transform: none !important;
+    right: 0 !important;
+}
+
+#ai-coach-view-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+#webcam-container {
+    flex: 1;
+    min-width: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ai-coach-container.maximized #ai-coach-view-wrapper,
+.ai-coach-container.maximized .card-body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.ai-coach-header {
+    cursor: move;
+    background-color: var(--secondary);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+
+.ai-coach-controls button {
+    background: none;
+    border: none;
+    color: white;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+.ai-coach-controls button:hover {
+    opacity: 1;
+}
+
+.resize-handle {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 15px;
+    height: 15px;
+    cursor: se-resize;
+    background: repeating-linear-gradient(-45deg, rgba(255,255,255,0.3), rgba(255,255,255,0.3) 1px, transparent 1px, transparent 4px);
+    z-index: 1061;
+}
